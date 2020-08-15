@@ -34,6 +34,28 @@ body{
   -moz-osx-font-smoothing: grayscale;
   margin-top: 60px;
 }
+footer
+{
+  background: #000000;
+  text-align: center;
+  width: 100%;
+  margin-top: 20px;
+  height: 40px;
+  justify-content: center;
+  padding: 50px 0;
+}
+footer a
+{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+footer p
+{
+  color:gray;
+  font-size:20px;
+  font-weight: bolder;
+}
 .top {
   width: 60px;
   height: 60px;
